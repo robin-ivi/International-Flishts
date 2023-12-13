@@ -39,7 +39,7 @@ This is Internation Flishts Offers Landing Page
     <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
     <h2>Acknowledgments</h2>
     <ul>
-        <li>Special thanks to <a href="tel:6387800143">XYZ Airlines</a> for providing sample data and images
+        <li>Special thanks to <a href="tel:+916387800143">XYZ Airlines</a> for providing sample data and images
             for demonstration purposes.</li>
         <li>Thanks to the open-source community for various libraries and tools used in this project.</li>
     </ul>
